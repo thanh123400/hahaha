@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1645217674 source:d:\uet\k2n1\ltnc\sdl_gametest\main.cpp
+	<iostream>
+	<SDL.h>
+	<string.h>
+
